@@ -128,9 +128,9 @@ SGGS IE&T Vishnupuri, Nanded
 Let`s Talk
 Have a Project Idea? Contact
 
-Linkedin: 
-Email: surwasemahi@gmail.com
-Location: At.Post Ekurga, Latur, Maharashtra
+- Linkedin: https://www.linkedin.com/in/maheshwari-surwase/
+- Email: surwasemahi@gmail.com
+- Location: At.Post Ekurga, Latur, Maharashtra
 
 /* Footer
 --------------------------------------------------
